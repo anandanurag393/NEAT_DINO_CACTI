@@ -12,3 +12,6 @@ the game
 libraries needed to run
 pygame
 NEAT
+
+launch the .py file
+see it train
